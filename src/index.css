@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(248,248,255);
+    font-family:'Source Sans Pro';
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
